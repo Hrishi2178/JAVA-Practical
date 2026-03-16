@@ -1,4 +1,4 @@
-public class Practical8{
+public class Practical9{
  	public static void main(String[] args){
 		long startTime,endTime;
 
